@@ -1,0 +1,4 @@
+browser=chrome
+
+URL=https://login.salesforce.com/
+Imporatant_Note=Dont give space at the end of value.E.g--> if i give space Above line  at the End ,Error will generate
